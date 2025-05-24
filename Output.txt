@@ -1,0 +1,15 @@
+OUTPUT FROM python cli_interface.py transcript.txt tfidf:
+What are some real-life examples of AI mentioned in the transcript?
+[02:42 - 02:48], Some of the examples of artificial intelligence from our day-to-day life are Apple series,
+Why has AI gained more popularity recently compared to earlier times?
+[00:48 - 00:53], The concept is pretty old but it has gained its popularity recently.
+When was the term Artificial Intelligence first coined?
+[00:44 - 00:48], The term artificial intelligence was first coined in the year 1956.
+
+OUTPUT FROM python cli_interface.py transcript.txt llm2:
+Why is Deep Learning called the "next evolution" of Machine Learning?
+[08:15 - 08:19], More specifically, it is the next evolution of machine learning.
+How do AI, Machine Learning, and Deep Learning relate to each other hierarchically?
+[00:19 - 00:24], Well artificial intelligence is a broader umbrella under which machine learning and deep learning
+How do data dependencies differ between Machine Learning and Deep Learning?
+[08:08 - 08:12], The easiest way to understand the difference between the machine learning and deep learning
